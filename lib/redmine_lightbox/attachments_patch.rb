@@ -1,5 +1,5 @@
 require_dependency 'attachment'
-module RedmineLightbox2
+module RedmineLightbox
   module AttachmentsPatch
     def self.included(base) # :nodoc:
       base.class_eval do
