@@ -10,8 +10,8 @@ end
 
 
 Redmine::Plugin.register :redmine_lightbox do
-  name 'Redmine Lightbox 2'
-  author 'Tobias Fischer'
+  name 'Redmine Lightbox'
+  author 'nomadli'
   description 'This plugin lets you preview image and pdf attachments in a lightbox.'
   version '0.5.3'
   url 'https://github.com/nomadli/redmine_lightbox'
